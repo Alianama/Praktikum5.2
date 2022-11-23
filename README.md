@@ -1,1 +1,3 @@
-# Praktikum6
+# Praktikum 6
+
+### Latihan
