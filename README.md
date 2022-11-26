@@ -14,9 +14,8 @@
 
 
 Berikut Program nya dan penjelasan nya ada di komentar pada program <br/>
-![Gambar 1](Screnshoot\ss1.png)<br/>
-
+![Gambar 1](Screnshoot/ss1.png) <br/>
 Berikut Hasil dari Program tersebut<br/>
-![Gambar 2](Screnshoot\ss2.png)<br/>
+![Gambar 2](Screnshoot/ss2.png)<br/>
 
 
