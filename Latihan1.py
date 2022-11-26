@@ -32,3 +32,12 @@ print("| Nama\t| Nomor telpon\t|")
 print("|=======================|")
 for k_nama, k_nomor in kontak.items():
     print("|", k_nama, "\t|", k_nomor, "\t|")
+
+# Menghapus Kontak Dina
+print("\n")
+print("Menghapus Kontak Dina")
+del kontak['Dina']
+
+
+for k_nama, k_nomor in kontak.items():
+    print("|", k_nama, "\t|", k_nomor, "\t|")
